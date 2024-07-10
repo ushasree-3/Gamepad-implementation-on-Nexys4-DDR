@@ -33,4 +33,4 @@ This project implements the "Two Cars" game on the Nexys4 DDR FPGA board. The ga
 Check out the [demonstration video](https://drive.google.com/file/d/1Seu6e5YY61z05KON6i7IrEyIx4Q_cAl7/view?usp=sharing) for a visual overview of the game on the Nexys4 DDR board.
 
 ## Acknowledgements
-This project is undertaken as a summer project under the supervision of Prof. Joycee Mekie at IIT Gandhinagar. I appreciate Prof. Mekie's guidance and support throughout the development of the "Two Cars" game on the Nexys4 DDR board. 
+This project is undertaken as a summer project under the supervision of Prof. Joycee Mekie at IIT Gandhinagar. I appreciate Prof. Joycee Mekie's guidance and support throughout the development of the "Two Cars" game on the Nexys4 DDR board. 
